@@ -22,7 +22,7 @@ import multiprocessing
 pd.options.display.max_columns = 5
 pd.options.display.max_rows = 10000000
 
-data = pd.read_csv('csv files/Dataset.csv')
+data = pd.read_csv('Dataset.csv')
 temp1 = []
 temp2 = []
 temp3 = []
